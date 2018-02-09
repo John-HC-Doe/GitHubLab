@@ -9,7 +9,8 @@ Other Thing 2
 -------------
 
 And this some content for Header 2 Intro.
-And some other paragraph.
+And some other paragraph.<br>
+This line is added to differentiate between CRLF and <br>.
 
 Dude, I changed you many times already . . . sync up man . . . ! ! !<br>
 Shitty Text MarkUp Language, rely on CRLF but it does not provide what 'normal' people needs, a simple line break.
