@@ -1,14 +1,14 @@
 # GitHubLab
 
-ALT-H1 Header 1
-===============
+Some Thing 1
+============
 
 This some text for Header 1 Introduction.
 
-Alt-H2 Header 2
----------------
+Other Thing 2
+-------------
 
-And this some content for Header 2 Intro.<br>
+And this some content for Header 2 Intro.
 And some other paragraph.
 
 Dude, I changed you many times already . . . sync up man . . . ! ! !<br>
