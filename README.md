@@ -9,3 +9,5 @@ Alt-H2 Header 2
 ===============
 
 And this some content for Header 2 Intro.
+And some other paragraph.
+
